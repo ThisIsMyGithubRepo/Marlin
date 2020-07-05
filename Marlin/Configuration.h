@@ -1096,7 +1096,7 @@
 // @section machine
 
 // The size of the print bed
-#define X_BED_SIZE 199 // 235 normally, but with SpeedDrive this is reduced.
+#define X_BED_SIZE 226 // 235 normally, but with SpeedDrive this is reduced.
 #define Y_BED_SIZE 235
 
 // Travel limits (mm) after homing, corresponding to endstop positions.
